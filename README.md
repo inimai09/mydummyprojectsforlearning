@@ -1,4 +1,4 @@
-🚀 Learning & Practice Projects Repository
+🚀 **Learning & Practice Projects Repository**
 
 Welcome to my practice playground 👨‍💻
 
