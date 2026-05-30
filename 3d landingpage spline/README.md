@@ -1,16 +1,43 @@
-# React + Vite
+# 3D Landing Page — Spline
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern developer-focused landing page built with React, Tailwind CSS, and Spline 3D.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🎨 3D interactive robot built with Spline
+- ⚡ Fast and lightweight with Vite
+- 🌙 Dark theme
+- Smooth hover effects and transitions
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Tailwind CSS
+- Spline (3D)
+- Vite
+- Boxicons
 
-## Expanding the ESLint configuration
+## Prerequisites
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Node.js (v18 or above)
+- npm
+
+## Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/inimai09/mydummyprojectsforlearning.git
+
+# Go into the project folder
+cd "3d landingpage spline"
+
+# Install dependencies (includes Tailwind CSS)
+npm install
+
+# Start the dev server
+npm run dev
+```
+## Preview
+<img width="935" height="475" alt="image" src="https://github.com/user-attachments/assets/209edc41-4357-4246-8522-be1ef9f25475" />
+
+
